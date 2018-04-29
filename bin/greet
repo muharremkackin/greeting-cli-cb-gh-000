@@ -7,3 +7,5 @@ puts "Hello There!"
 puts "Please tell us your name, Jedi!"
 
 name = gets.strip
+
+greeting(name)
